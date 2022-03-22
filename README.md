@@ -1,5 +1,5 @@
 # Programming Project 1
-A text-based adventure game that uses turn-based 
+A text-based adventure game that uses turn-based combat with a set amoount of HP. 
 
 ## GUI mockup #1 (Start screen)
 
