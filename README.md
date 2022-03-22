@@ -1,5 +1,5 @@
 # Programming Project 1
-desc of the project
+A text-based adventure game that uses turn-based 
 
 ## GUI mockup #1 (Start screen)
 
