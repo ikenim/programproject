@@ -1,5 +1,5 @@
 # Programming Project 1
-A text-based adventure game that uses turn-based combat with a set amoount of HP. 
+A text-based adventure game 
 
 ## GUI mockup #1 (Start screen)
 
@@ -10,7 +10,7 @@ A text-based adventure game that uses turn-based combat with a set amoount of HP
 ## Class Diagram
 
 # Programming Project 2
-desc of the project
+Snake but multiple fruits spawn but there is a possible chance that one fruit will make you lose a level or cause you to explode.
 
 ## GUI mockup #1 (Start screen)
 
