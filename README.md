@@ -1,5 +1,5 @@
 # Programming Project 1
-A text-based adventure game 
+A text-based adventure game centered around a monkey who is robbing people and ~~beating up~~ patting them on the back before taking their money.
 
 ## GUI mockup #1 (Start screen)
 ![Start Screen](https://github.com/ikenim/programproject/blob/main/images/mockup1.png?raw=true)
