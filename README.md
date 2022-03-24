@@ -4,7 +4,7 @@ A text-based adventure game centered around a monkey who is robbing people and ~
 ## GUI mockup #1 (Start screen)
 ![Start Screen](https://github.com/ikenim/programproject/blob/main/images/mockup1.png?raw=true)
 ## GUI mockup #2 (Gameplay)
-![Gameplay]()
+![Gameplay](https://github.com/ikenim/programproject/blob/main/images/gameplay1.png?raw=true)
 ## GUI mockup #3 (End screen)
 ![End screen]()
 ## Class Diagram
