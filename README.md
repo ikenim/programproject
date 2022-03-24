@@ -2,7 +2,7 @@
 A text-based adventure game 
 
 ## GUI mockup #1 (Start screen)
-![Start Screen]()
+![Start Screen](https://github.com/ikenim/programproject/blob/main/images/mockup1.png?raw=true)
 ## GUI mockup #2 (Gameplay)
 ![Gameplay]()
 ## GUI mockup #3 (End screen)
