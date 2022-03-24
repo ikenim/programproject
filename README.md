@@ -10,7 +10,7 @@ A text-based adventure game centered around a monkey who is robbing people and ~
 ## Class Diagram
 ![Class Diagram]()
 # Programming Project 2
-Snake but multiple fruits spawn but there is a possible chance that one fruit will make you lose a level or cause you to explode.
+Snake but multiple fruits spawn but there is a possible chance that one fruit will make you lose a level or cause you to explode. Obstacles appear after a certain amount of fruits is eaten.
 
 ## GUI mockup #1 (Start screen)
 ![Start screen]()
