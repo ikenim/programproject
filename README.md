@@ -10,7 +10,7 @@ A text-based adventure game centered around a monkey who is robbing people and ~
 ## Class Diagram
 ![Class Diagram]()
 # Programming Project 2
-Snake but multiple fruits spawn but there is a possible chance that one fruit will make you lose a level or cause you to explode. Obstacles appear after a certain amount of fruits is eaten.
+Snake but there is now a bomb mode that causes the snake to explode and lose 1-3 in length.
 
 ## GUI mockup #1 (Start screen)
 ![Start screen](https://github.com/ikenim/programproject/blob/main/images/snake1.png?raw=true)
