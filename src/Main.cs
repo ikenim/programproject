@@ -9,7 +9,7 @@ class SnakeApp : System.Windows.Forms.Form
     {
     Label label;
 
-    ClientSize = new System.Drawing.Size(1000,1000);
+    ClientSize = new System.Drawing.Size(100,100);
 
     label = new Label();
     label.Text = "A Mono CSharp REPL Window";
