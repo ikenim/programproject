@@ -9,7 +9,7 @@ class SnakeApp : System.Windows.Forms.Form
     {
     Label label;
 
-    ClientSize = new System.Drawing.Size(100,100);
+    ClientSize = new System.Drawing.Size(500,500);
 
     label = new Label();
     label.Text = "A Mono CSharp REPL Window";
@@ -23,9 +23,9 @@ class SnakeApp : System.Windows.Forms.Form
   }
   public void DrawImagePointF(PaintEventArgs e)
   {
-    Image newImage = Image.FromFile("segment.png");
+    Image newImage = Image.FromFile("title.png");
 
-    PointF ulCorner = new PointF(100.0F, 100.0F);
+    PointF ulCorner = new PointF(500.0F, 500.0F);
 
     e.Graphics.DrawImage(newImage, ulCorner);
   }
