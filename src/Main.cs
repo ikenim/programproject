@@ -16,7 +16,7 @@ class SnakeApp : System.Windows.Forms.Form
     label.Dock = DockStyle.Fill;
     label.TextAlign = ContentAlignment.MiddleCenter;
     this.Controls.Add(label);
-    Text = "Hello world";
+    Text = "Press any key to start.";
   }
   public static void Main(string[] args) {
     Application.Run(new SnakeApp());
