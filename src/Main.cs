@@ -1,6 +1,7 @@
 //LoadAssembly("System.Windows.Forms");
 using System.Windows.Forms;
 using System;
+using Gtk;
 //LoadAssembly("System.Drawing");
 using System.Drawing;
 class SnakeApp : System.Windows.Forms.Form
@@ -18,9 +19,6 @@ class SnakeApp : System.Windows.Forms.Form
     this.Controls.Add(label);
     Text = "Press any key to start.";
   }
-  public static void Main(string[] args) {
-    Application.Run(new SnakeApp());
-  }
   public void DrawImagePointF(PaintEventArgs e)
   {
     Image newImage = Image.FromFile("title.png");
@@ -28,6 +26,9 @@ class SnakeApp : System.Windows.Forms.Form
     PointF ulCorner = new PointF(500.0F, 500.0F);
 
     e.Graphics.DrawImage(newImage, ulCorner);
+  }
+  public static void Main(string[] args) {
+    Application.Run(new SnakeApp());
   }
 }
 //SnakeApp.Main()
