@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Snake
 {
-    internal class Piece : Label
+    class Piece : Label
     {
         public Piece(int x, int y)
         {

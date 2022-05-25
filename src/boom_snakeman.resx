@@ -57,13 +57,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="lblFood.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAAKVJREFUOE/t
-        krENgzAURL1C2rReIDQUdLACZdbKJhTUrMMSRmedpa/8b/OJKPOkJyx8d5XDH8W7eyZ8521IxXzxKxic
-        Pq97xsAYH/cMpb5PEIPlDHntR5bhGmNW/mP0HIT3ZcnKgZqs2ZSQdwyyamMVPLKuscIeWddYYY+sa6yw
-        R9Y1Vtgj65rvt+aVdY31gM9ktc7VUdbalNHWMKPXkMNSXlcI4QDnS5tiY+qjLgAAAABJRU5ErkJggg==
-</value>
-  </data>
 </root>
